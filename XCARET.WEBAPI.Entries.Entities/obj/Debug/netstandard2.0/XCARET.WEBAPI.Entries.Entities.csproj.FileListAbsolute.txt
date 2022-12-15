@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\XCARET.WEBAPI.Entries\XCARET.WEBAPI.Entries.Entities\obj\Debug\netstandard2.0\XCARET.WEBAPI.Entries.Entities.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\XCARET.WEBAPI.Entries\XCARET.WEBAPI.Entries.Entities\obj\Debug\netstandard2.0\XCARET.WEBAPI.Entries.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\XCARET.WEBAPI.Entries\XCARET.WEBAPI.Entries.Entities\obj\Debug\netstandard2.0\XCARET.WEBAPI.Entries.Entities.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\XCARET.WEBAPI.Entries\XCARET.WEBAPI.Entries.Entities\obj\Debug\netstandard2.0\XCARET.WEBAPI.Entries.Entities.AssemblyInfo.cs
+C:\Users\ACER\source\repos\XCARET.WEBAPI.Entries\XCARET.WEBAPI.Entries.Entities\obj\Debug\netstandard2.0\XCARET.WEBAPI.Entries.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\XCARET.WEBAPI.Entries\XCARET.WEBAPI.Entries.Entities\bin\Debug\netstandard2.0\XCARET.WEBAPI.Entries.Entities.deps.json
+C:\Users\ACER\source\repos\XCARET.WEBAPI.Entries\XCARET.WEBAPI.Entries.Entities\bin\Debug\netstandard2.0\XCARET.WEBAPI.Entries.Entities.dll
+C:\Users\ACER\source\repos\XCARET.WEBAPI.Entries\XCARET.WEBAPI.Entries.Entities\bin\Debug\netstandard2.0\XCARET.WEBAPI.Entries.Entities.pdb
+C:\Users\ACER\source\repos\XCARET.WEBAPI.Entries\XCARET.WEBAPI.Entries.Entities\obj\Debug\netstandard2.0\XCARET.WEBAPI.Entries.Entities.dll
+C:\Users\ACER\source\repos\XCARET.WEBAPI.Entries\XCARET.WEBAPI.Entries.Entities\obj\Debug\netstandard2.0\XCARET.WEBAPI.Entries.Entities.pdb

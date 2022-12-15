@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\XCARET.WEBAPI.Entries\XCARET.WEBAPI.Entries.Business\bin\Debug\netstandard2.0\XCARET.WEBAPI.Entries.Business.deps.json
+C:\Users\ACER\source\repos\XCARET.WEBAPI.Entries\XCARET.WEBAPI.Entries.Business\bin\Debug\netstandard2.0\XCARET.WEBAPI.Entries.Business.dll
+C:\Users\ACER\source\repos\XCARET.WEBAPI.Entries\XCARET.WEBAPI.Entries.Business\bin\Debug\netstandard2.0\XCARET.WEBAPI.Entries.Business.pdb
+C:\Users\ACER\source\repos\XCARET.WEBAPI.Entries\XCARET.WEBAPI.Entries.Business\bin\Debug\netstandard2.0\XCARET.WEBAPI.Entries.Crosscuting.dll
+C:\Users\ACER\source\repos\XCARET.WEBAPI.Entries\XCARET.WEBAPI.Entries.Business\bin\Debug\netstandard2.0\XCARET.WEBAPI.Entries.Entities.dll
+C:\Users\ACER\source\repos\XCARET.WEBAPI.Entries\XCARET.WEBAPI.Entries.Business\bin\Debug\netstandard2.0\XCARET.WEBAPI.Entries.Crosscuting.pdb
+C:\Users\ACER\source\repos\XCARET.WEBAPI.Entries\XCARET.WEBAPI.Entries.Business\bin\Debug\netstandard2.0\XCARET.WEBAPI.Entries.Entities.pdb
+C:\Users\ACER\source\repos\XCARET.WEBAPI.Entries\XCARET.WEBAPI.Entries.Business\obj\Debug\netstandard2.0\XCARET.WEBAPI.Entries.Business.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\XCARET.WEBAPI.Entries\XCARET.WEBAPI.Entries.Business\obj\Debug\netstandard2.0\XCARET.WEBAPI.Entries.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\XCARET.WEBAPI.Entries\XCARET.WEBAPI.Entries.Business\obj\Debug\netstandard2.0\XCARET.WEBAPI.Entries.Business.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\XCARET.WEBAPI.Entries\XCARET.WEBAPI.Entries.Business\obj\Debug\netstandard2.0\XCARET.WEBAPI.Entries.Business.AssemblyInfo.cs
+C:\Users\ACER\source\repos\XCARET.WEBAPI.Entries\XCARET.WEBAPI.Entries.Business\obj\Debug\netstandard2.0\XCARET.WEBAPI.Entries.Business.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\XCARET.WEBAPI.Entries\XCARET.WEBAPI.Entries.Business\obj\Debug\netstandard2.0\XCARET.WEBAPI.Entries.Business.csproj.CopyComplete
+C:\Users\ACER\source\repos\XCARET.WEBAPI.Entries\XCARET.WEBAPI.Entries.Business\obj\Debug\netstandard2.0\XCARET.WEBAPI.Entries.Business.dll
+C:\Users\ACER\source\repos\XCARET.WEBAPI.Entries\XCARET.WEBAPI.Entries.Business\obj\Debug\netstandard2.0\XCARET.WEBAPI.Entries.Business.pdb

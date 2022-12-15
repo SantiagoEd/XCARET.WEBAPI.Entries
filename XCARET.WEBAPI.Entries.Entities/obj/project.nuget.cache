@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "z+QKK60Hf7oGkp8asA4iEa6GndHROGHombOQLVs43LIAudDxCNYdSfG1meir9AsSnEV7b4ZqKJTsqKP8Vkvj1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ACER\\source\\repos\\XCARET.WEBAPI.Entries\\XCARET.WEBAPI.Entries.Entities\\XCARET.WEBAPI.Entries.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

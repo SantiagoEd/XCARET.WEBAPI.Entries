@@ -1,0 +1,13 @@
+C:\Users\ACER\source\repos\XCARET.WEBAPI.Entries\XCARET.WEBAPI.Entries.Crosscuting\bin\Debug\netstandard2.0\XCARET.WEBAPI.Entries.Crosscuting.deps.json
+C:\Users\ACER\source\repos\XCARET.WEBAPI.Entries\XCARET.WEBAPI.Entries.Crosscuting\bin\Debug\netstandard2.0\XCARET.WEBAPI.Entries.Crosscuting.dll
+C:\Users\ACER\source\repos\XCARET.WEBAPI.Entries\XCARET.WEBAPI.Entries.Crosscuting\bin\Debug\netstandard2.0\XCARET.WEBAPI.Entries.Crosscuting.pdb
+C:\Users\ACER\source\repos\XCARET.WEBAPI.Entries\XCARET.WEBAPI.Entries.Crosscuting\bin\Debug\netstandard2.0\XCARET.WEBAPI.Entries.Entities.dll
+C:\Users\ACER\source\repos\XCARET.WEBAPI.Entries\XCARET.WEBAPI.Entries.Crosscuting\bin\Debug\netstandard2.0\XCARET.WEBAPI.Entries.Entities.pdb
+C:\Users\ACER\source\repos\XCARET.WEBAPI.Entries\XCARET.WEBAPI.Entries.Crosscuting\obj\Debug\netstandard2.0\XCARET.WEBAPI.Entries.Crosscuting.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\XCARET.WEBAPI.Entries\XCARET.WEBAPI.Entries.Crosscuting\obj\Debug\netstandard2.0\XCARET.WEBAPI.Entries.Crosscuting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\XCARET.WEBAPI.Entries\XCARET.WEBAPI.Entries.Crosscuting\obj\Debug\netstandard2.0\XCARET.WEBAPI.Entries.Crosscuting.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\XCARET.WEBAPI.Entries\XCARET.WEBAPI.Entries.Crosscuting\obj\Debug\netstandard2.0\XCARET.WEBAPI.Entries.Crosscuting.AssemblyInfo.cs
+C:\Users\ACER\source\repos\XCARET.WEBAPI.Entries\XCARET.WEBAPI.Entries.Crosscuting\obj\Debug\netstandard2.0\XCARET.WEBAPI.Entries.Crosscuting.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\XCARET.WEBAPI.Entries\XCARET.WEBAPI.Entries.Crosscuting\obj\Debug\netstandard2.0\XCARET.WEBAPI.Entries.Crosscuting.csproj.CopyComplete
+C:\Users\ACER\source\repos\XCARET.WEBAPI.Entries\XCARET.WEBAPI.Entries.Crosscuting\obj\Debug\netstandard2.0\XCARET.WEBAPI.Entries.Crosscuting.dll
+C:\Users\ACER\source\repos\XCARET.WEBAPI.Entries\XCARET.WEBAPI.Entries.Crosscuting\obj\Debug\netstandard2.0\XCARET.WEBAPI.Entries.Crosscuting.pdb
